@@ -14,7 +14,7 @@ A desktop application where students report lost and found items, search and mat
 
 ---
 
-## 1. Problem and aim
+## 1. Problem and Aim
 
 Lost items on campus are usually announced in chat groups. There is no record, no search, and no way to check that the person collecting an item is the real owner. CampusFind gives the campus one central system where:
 
